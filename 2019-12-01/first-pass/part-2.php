@@ -1,6 +1,6 @@
 <?php
 
-$input = explode(PHP_EOL, file_get_contents('input.txt'));
+$input = explode(PHP_EOL, file_get_contents('../input.txt'));
 
 $total = 0;
 
