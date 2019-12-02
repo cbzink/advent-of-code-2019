@@ -1,6 +1,6 @@
 <?php
 
-$input = explode(',', file_get_contents('input.txt'));
+$input = explode(',', file_get_contents('../input.txt'));
 
 $input[1] = 12;
 $input[2] = 2;
